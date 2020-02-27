@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\bin\Debug\STM32_Pinmaker.exe.config
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\bin\Debug\STM32_Pinmaker.exe
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\bin\Debug\STM32_Pinmaker.pdb
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\obj\Debug\STM32_Pinmaker.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\obj\Debug\STM32_Pinmaker.Form1.resources
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\obj\Debug\STM32_Pinmaker.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\obj\Debug\STM32_Pinmaker.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\obj\Debug\STM32_Pinmaker.exe
+C:\Users\user\Documents\Visual Studio 2019\STM32_Pinmaker\obj\Debug\STM32_Pinmaker.pdb
